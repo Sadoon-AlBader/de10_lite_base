@@ -10,7 +10,9 @@ Two folders are included:<br>
 
 <h2>How to use:</h2>
 Just open either project in Quartus Prime and compile and upload.<br><br><br>
-    
+
+<h4>This is a small part of a project that I am currently working on for my Independent Study course (CPEG 388) at the American University of Kuwait under the supervision of Chair Prof. Ashraf Zaher and Lab Instructor Mr. Haseeb ur Rahman.</h4><br><br>
+
 <b><tt>I dedicate any and all copyright interest in this software to the<br>
 public domain. I make this dedication for the benefit of the public at<br>
 large and to the detriment of my heirs and successors. I intend this<br>
