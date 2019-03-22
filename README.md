@@ -18,3 +18,6 @@ public domain. I make this dedication for the benefit of the public at<br>
 large and to the detriment of my heirs and successors. I intend this<br>
 dedication to be an overt act of relinquishment in perpetuity of all<br>
 present and future rights to this software under copyright law.</b></tt>
+
+
+![alt text](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
